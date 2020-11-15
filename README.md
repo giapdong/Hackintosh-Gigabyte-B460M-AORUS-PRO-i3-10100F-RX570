@@ -13,6 +13,8 @@ GPU | AMD RX 570 4G
 
 I use base of [Opencore Guide](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html) and [Origin repository](https://github.com/dovtuan/Gigabyte-B460M-Aorus-Pro-Hackintosh-Open-Core)
 
+I used F4 config and config_iGPU+RX4xx_RX5xx_Polaris.plist for my Mac
+
 ### Version MacOS
 
 I try to boot less than 10.15.7 latest but failed! You will need boot with latest version of MacOS. This issue can from non-iGPU.
